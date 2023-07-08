@@ -20,9 +20,11 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>My program</h1>
+            <h1>Future Coders</h1>
             <span>ONLINE EDUCATION & LEARNING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p>The world is changing, and we want you to be ready. We're here to make 
+                sure that all people have access to the knowledge they need to prepare
+              </p>
 
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>

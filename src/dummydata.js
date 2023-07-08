@@ -3,19 +3,19 @@ export const homeAbout = [
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
     title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Our Studio software is a workshop, and a space to hone a student's craft—a complete learning environment in the browser.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Earn as you learn",
+    desc: "As students progress, they develop core competencies that are able to translate into real world progrjects.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-    title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Learn with an expert",
+    desc: "A student's entire learning experience and work is trackable and easy to understand through our feedback system",
   },
 ]
 export const awrapper = [
@@ -27,7 +27,7 @@ export const awrapper = [
 
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-    data: "320",
+    data: "100+",
     title: "TRUSTED TUTORS",
   },
   {
@@ -288,22 +288,22 @@ export const team = [
 export const price = [
   {
     name: "BASIC PLAN",
-    price: "49K",
+    price: "1K",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
     name: "BEGINNER PLAN",
-    price: "79K",
+    price: "2.5K",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
     name: "PREMIUM PLAN",
-    price: "109k",
+    price: "5K",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
     name: "ULTIMATE PLAN",
-    price: "149K",
+    price: "10K",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
 ]

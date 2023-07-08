@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("../../../../public/images/bg.webp");
+  background-image: url("../../../../public/images/bg2.webp"), url("../../../../public/images/bg.webp");
   background-size: cover;
   background-attachment: fixed;
   position: absolute;
@@ -11,7 +11,38 @@
   padding-top: 20%;
   padding-right: 50px;
   color: #fff;
+  /* animation: 20s hero infinite; */
 }
+@keyframes hero {
+  0%{
+    left: 0;
+  }
+  20%{
+    left: 0;
+  }
+  25%{
+    left: -100%;
+  }
+  45%{
+    left: -100%;
+  }
+  50%{
+    left: -200%;
+  }
+  70%{
+    left: -200%;
+  }
+  75%{
+    left: -300%;
+  }
+  95%{
+    left: -300%;
+  }
+  100%{
+    left: -400%;
+  }
+}
+
 .hero #heading h3 {
   color: #fff;
 }
@@ -20,6 +51,7 @@
   margin: 0;
   padding: 0;
 }
+
 @media screen and (max-width: 768px) {
   .margin {
     height: 40vh;

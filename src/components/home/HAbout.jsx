@@ -9,7 +9,7 @@ const HAbout = () => {
     <>
       <section className='homeAbout'>
         <div className='container'>
-          <Heading subtitle='our services' title='explore our popular care services' />
+          <Heading subtitle='Popular courses' title='explore our popular courses' />
 
           <div className='coursesCard'>
             {/* copy code form  coursesCard */}

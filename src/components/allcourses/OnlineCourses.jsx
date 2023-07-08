@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from "react"
 import "./courses.css"
 import { online } from "../../dummydata"
@@ -8,7 +9,7 @@ const OnlineCourses = () => {
     <>
       <section className='online'>
         <div className='container'>
-          <Heading subtitle='SERVICES' title='Browse Our Care Services' />
+          <Heading subtitle='Courses' title='Browse All Our Courses' />
           <div className='content grid3'>
             {online.map((val) => (
               <div className='box'>
