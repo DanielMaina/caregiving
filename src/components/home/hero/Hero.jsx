@@ -15,14 +15,6 @@ const Hero = () => {
               <button className='primary-btn'>
                 GET STARTED NOW <i className='fa fa-long-arrow-alt-right'></i>
               </button>
-              <button
-                target="_blank"
-                rel="noreferrer"
-                as="a"
-                href="https://example.com"
-              >
-              Open
-              </button>
               <button>
                 VIEW COURSE <i className='fa fa-long-arrow-alt-right'></i>
               </button>
